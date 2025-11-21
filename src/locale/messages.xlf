@@ -122,9 +122,6 @@
       <trans-unit id="3792117578788899429" datatype="html">
         <source>Invalid credentials. Not very effective, try again!</source>
       </trans-unit>
-      <trans-unit id="3959583247915483678" datatype="html">
-        <source>Page load progress</source>
-      </trans-unit>
       <trans-unit id="4022823352084662376" datatype="html">
         <source>Register failed. This attempt wasn’t very effective, try again!</source>
       </trans-unit>

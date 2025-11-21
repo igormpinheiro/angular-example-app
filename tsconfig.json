@@ -13,7 +13,7 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
     "isolatedModules": true,
-    "esModuleInterop": false,
+    "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
     "noUnusedLocals": true,

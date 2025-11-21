@@ -50,7 +50,7 @@ This app connects to a real backend powered by NestJS, PostgreSQL, and Prisma, d
 
 |                         |                                                     |
 | ----------------------- | --------------------------------------------------- |
-| ✅ Angular 20           | Using the latest version                            |
+| ✅ Angular 21           | Using the latest version                            |
 | ✅ Internationalization | i18n with English and Spanish                       |
 | ✅ Authentication       | JWT-based, real login flow                          |
 | ✅ Routing & Guards     | Functional guards with lazy-loaded routes           |

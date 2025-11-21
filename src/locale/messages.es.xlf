@@ -173,10 +173,6 @@
         <source>EN-US</source>
         <target state="new">EN-US</target>
       </trans-unit>
-      <trans-unit id="3959583247915483678" datatype="html">
-        <source>Page load progress</source>
-        <target state="new">Progreso de carga de la página</target>
-      </trans-unit>
       <trans-unit id="203827529942340818" datatype="html">
         <source>Enter your email</source>
         <target state="new">Introduce tu correo electrónico</target>

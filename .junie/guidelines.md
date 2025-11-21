@@ -1,4 +1,4 @@
-### Angular Example App — Project Guidelines (Angular 20)
+### Angular Example App — Project Guidelines (Angular 21)
 
 These notes capture project-specific conventions and commands so advanced contributors can be productive quickly. This app uses Angular v20 with standalone components, signals-first patterns, Vitest for unit tests (via the experimental Angular unit-test builder), and Playwright for E2E.
 
